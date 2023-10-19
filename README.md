@@ -9,4 +9,4 @@ The Universal Hi-Link Power Module PCB is an in-house design, providing seamless
 Dimensions:
 
 
-![Dimensions_HLK-MNT](https://github.com/microrobotics/HLK-MNT/assets/4562957/9c39b9ca-8a40-4726-ab68-546c23a1133b)
+![Dimensions_HLK-MNT](https://github.com/microrobotics/HLK-MNT/assets/4562957/eebd295a-5560-4c81-aaf1-79fea623b7dc)
